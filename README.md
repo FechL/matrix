@@ -9,7 +9,7 @@ Matrix simulator.
 * clone [repository](https://github.com/FechL/matrix.git) ini
 
 ```bash
-git clone https://github.com/FechL/downloader-youtube-mp3.git
+git clone https://github.com/FechL/matrix.git
 ```
 
 ### download zip (cara lain)
